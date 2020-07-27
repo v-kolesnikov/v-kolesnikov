@@ -1,5 +1,6 @@
-### Hi there 👋
+### Books and code at
 
+![image](https://vanguardassets.bmstatic.com/assets/about/press/assets/bookmate_horizontal_mono.png?v1)
 <!--
 **v-kolesnikov/v-kolesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
