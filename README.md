@@ -2,8 +2,8 @@
 
 ![image](https://vanguardassets.bmstatic.com/assets/about/press/assets/bookmate_horizontal_mono.png?v1)
 
-[![160565434733](https://user-images.githubusercontent.com/6506296/99461289-98055a00-2942-11eb-820a-65ec57646e70.png)](https://www.credential.net/47cb76f1-94bb-48b7-964d-e97a14a3e098?key=76e98ec6a0ab1fb9ccfe9ed0b32bd72e1f88eac95517260ca11b0e421d367579)
-[![160565418541](https://user-images.githubusercontent.com/6506296/99461171-570d4580-2942-11eb-89d7-d146ee8f38d3.png)](https://www.credential.net/773cdc56-cc8f-4f47-b5d5-0a84e8af3c4a?key=d9d26df19c420f31d41db46ebdc78775dab8c461f6b1bd4e920aae61bb5bd9e6)
+[![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13164903)](https://www.credential.net/47cb76f1-94bb-48b7-964d-e97a14a3e098)
+[![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/25398900)](https://www.credential.net/773cdc56-cc8f-4f47-b5d5-0a84e8af3c4a)
 
 <!--
 **v-kolesnikov/v-kolesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
