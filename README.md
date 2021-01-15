@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v-kolesnikov&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13164903)](https://www.credential.net/47cb76f1-94bb-48b7-964d-e97a14a3e098)
 [![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/25398900)](https://www.credential.net/773cdc56-cc8f-4f47-b5d5-0a84e8af3c4a)
 
