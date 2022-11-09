@@ -1,5 +1,8 @@
-- https://www.credential.net/47cb76f1-94bb-48b7-964d-e97a14a3e098
+My Ruby [gold](https://www.credential.net/773cdc56-cc8f-4f47-b5d5-0a84e8af3c4a) and [silver](https://www.credential.net/47cb76f1-94bb-48b7-964d-e97a14a3e098) certifications:
+
 - https://www.credential.net/773cdc56-cc8f-4f47-b5d5-0a84e8af3c4a
+- https://www.credential.net/47cb76f1-94bb-48b7-964d-e97a14a3e098
+
 
 <!--
 **v-kolesnikov/v-kolesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
